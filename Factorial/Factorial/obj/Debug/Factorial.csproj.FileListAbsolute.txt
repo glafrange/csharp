@@ -1,0 +1,6 @@
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\Factorial\Factorial\obj\Debug\Factorial.pdb

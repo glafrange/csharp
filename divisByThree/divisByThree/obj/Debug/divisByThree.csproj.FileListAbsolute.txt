@@ -1,0 +1,7 @@
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\divisByThree\divisByThree\bin\Debug\divisByThree.exe.config
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\divisByThree\divisByThree\bin\Debug\divisByThree.exe
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\divisByThree\divisByThree\bin\Debug\divisByThree.pdb
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\divisByThree\divisByThree\obj\Debug\divisByThree.csprojAssemblyReference.cache
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\divisByThree\divisByThree\obj\Debug\divisByThree.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\divisByThree\divisByThree\obj\Debug\divisByThree.exe
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\divisByThree\divisByThree\obj\Debug\divisByThree.pdb

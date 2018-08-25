@@ -1,0 +1,6 @@
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\findMax\findMax\bin\Debug\findMax.exe.config
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\findMax\findMax\bin\Debug\findMax.exe
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\findMax\findMax\bin\Debug\findMax.pdb
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\findMax\findMax\obj\Debug\findMax.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\findMax\findMax\obj\Debug\findMax.exe
+C:\Users\gabri\Abyss\Programming\CareerDevs\Mosh Exercises\findMax\findMax\obj\Debug\findMax.pdb
